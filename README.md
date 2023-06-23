@@ -1,3 +1,3 @@
-# Calculator
+# CALCULATOR
 
-<h1>CALCULATOR</h1>
+<i>This is simple calculator i created</i>
